@@ -1,0 +1,11 @@
+Begin
+    open the file so it can be read
+    open a file for writing
+    for each line in file
+        find length of line
+        wanted length 15
+        output wanted to screen
+        output wanted to outfile
+    close infile
+    close outfile
+End
